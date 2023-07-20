@@ -2,6 +2,8 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
+    <h2>변경사항 적용되나!?!?!?!</h2>
+      <h2>gigigi</h2>
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
     <h1>${msg}</h1>
